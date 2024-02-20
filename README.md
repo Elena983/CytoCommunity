@@ -17,11 +17,12 @@ TCNs are identified per sample/image using the unsupervised mode; thus, TCNs fro
 2 CRC cores from COMET were chosen for further analysis
 https://lunaphore.com/of4234/
 
-![image](https://github.com/Elena983/CytoCommunity/assets/68946912/298f61cd-115c-4f3a-b7e1-4280d5e0336c)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/0f432d88-3c7e-4feb-9306-13b76a736f5f)
 
-![image](https://github.com/Elena983/CytoCommunity/assets/68946912/15885924-d672-479e-960b-91549c768c60)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/d6d59253-11b1-49eb-90a9-a4a864e60fcb)
 
-Supervised approach under development ...
+
+Supervised approach is under development ...
 
 TCNs are identified in all samples/images simultaneously using the supervised mode and thus TCNs from different samples/images are aligned.
 
