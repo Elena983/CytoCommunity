@@ -10,14 +10,13 @@ How different cells in a tissue organize and coordinate with each other to suppo
 
 TCNs are identified per sample/image using the unsupervised mode and thus TCNs from different samples/images are NOT aligned.
 
-TCNs are identified in all samples/images simultaneously using the supervised mode and thus TCNs from different samples/images are aligned.
-
 Unbiased approach - infer TCNs for individual samples 
 
 TCNs are identified per sample/image using the unsupervised mode and thus TCNs from different samples/images are NOT aligned.
 
 2 CRC cores from COMET were chosen for further analysis
 https://lunaphore.com/of4234/
+
 ![image](https://github.com/Elena983/CytoCommunity/assets/68946912/298f61cd-115c-4f3a-b7e1-4280d5e0336c)
 
 ![image](https://github.com/Elena983/CytoCommunity/assets/68946912/15885924-d672-479e-960b-91549c768c60)
