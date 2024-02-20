@@ -12,7 +12,9 @@ TCNs are identified per sample/image using the unsupervised mode and thus TCNs f
 
 TCNs are identified in all samples/images simultaneously using the supervised mode and thus TCNs from different samples/images are aligned.
 
-Unbiased approach
+Unbiased approach - infer TCNs for individual samples 
+
+TCNs are identified per sample/image using the unsupervised mode and thus TCNs from different samples/images are NOT aligned.
 
 2 CRC cores from COMET were chosen for further analysis
 https://lunaphore.com/of4234/
