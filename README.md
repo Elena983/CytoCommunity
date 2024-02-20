@@ -17,3 +17,6 @@ Unbiased approach
 2 CRC cores from COMET were chosen for further analysis
 https://lunaphore.com/of4234/
 ![image](https://github.com/Elena983/CytoCommunity/assets/68946912/298f61cd-115c-4f3a-b7e1-4280d5e0336c)
+
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/15885924-d672-479e-960b-91549c768c60)
+
