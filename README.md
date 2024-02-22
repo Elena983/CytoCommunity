@@ -28,6 +28,7 @@ Patient 1
 CD31+ were significantly enriched in TCN-2 in CLR patient 1, which is consistent with the paracrine effect whereby endothelial cells (ECs) promote the cancer stem cell (CSC) phenotype of human colorectal cancer (CRC).
 
 A stroma slightly connects with a tumor in both patients.
+
 -------------------
 
 A supervised approach is under development ...
