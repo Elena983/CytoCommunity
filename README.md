@@ -22,8 +22,7 @@ Patient 3
 ![image](https://github.com/Elena983/CytoCommunity/assets/68946912/6756b77d-cbaa-4121-baad-1352da6c0a8f)
 
 Patient 1
-
-![image](https://github.com/Elena983/CytoCommunity/assets/68946912/0b5a67e8-f013-4a0b-98d2-5f76b79df4f4)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/0e686c4e-e89e-4eb6-9e2c-d98711fb5747)
 
 The enrichment of B cells in TCN-1 and the co-localization of T cells or myeloid cells in TCN-3 could be indicative of the presence of tertiary lymphoid structures (TLS) within the tumor. TLS are organized lymphoid structures that resemble lymph nodes and can develop within tumors. They are associated with favorable outcomes in some cancers and suggest an active anti-tumor immune response.
 
