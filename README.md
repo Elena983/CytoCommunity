@@ -19,15 +19,20 @@ https://lunaphore.com/of4234/
 
 Patient 3
 
-![image](https://github.com/Elena983/CytoCommunity/assets/68946912/ef8dd872-2ed7-440f-8983-cc400f123d23)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/6756b77d-cbaa-4121-baad-1352da6c0a8f)
 
 Patient 1
 
-![image](https://github.com/Elena983/CytoCommunity/assets/68946912/891ef772-6737-49e0-ad73-3dac202da0b4)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/0b5a67e8-f013-4a0b-98d2-5f76b79df4f4)
 
-CD31+ were significantly enriched in TCN-2 in CLR patient 1, which is consistent with the paracrine effect whereby endothelial cells (ECs) promote the cancer stem cell (CSC) phenotype of human colorectal cancer (CRC).
+The enrichment of B cells in TCN-1 and the co-localization of T cells or myeloid cells in TCN-3 could be indicative of the presence of tertiary lymphoid structures (TLS) within the tumor. TLS are organized lymphoid structures that resemble lymph nodes and can develop within tumors. They are associated with favorable outcomes in some cancers and suggest an active anti-tumor immune response.
 
-A stroma slightly connects with a tumor in both patients.
+Endothelial cells alongside stroma were significantly enriched in many TCNs in both CLR patients, which is consistent with the paracrine effect whereby endothelial cells (ECs) promote the cancer stem cell (CSC) phenotype of human colorectal cancer (CRC), but never with tumor showing primarily interactions with other TME components of the tumor microenvironment rather than tumor cells themselves.
+
+Stroma strongly connect with the Endothelium 
+
+The value in the matrix is -log10(hypergeometric test p-value)
+![image](https://github.com/Elena983/CytoCommunity/assets/68946912/6c43e4b3-ea6a-440f-872e-aa33d47992ad)
 
 -------------------
 
