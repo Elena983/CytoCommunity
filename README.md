@@ -31,8 +31,4 @@ A stroma slightly connects with a tumor in both patients.
 
 -------------------
 
-A supervised approach is under development ...
-
-TCNs are identified in all samples/images simultaneously using the supervised mode, and thus, TCNs from different samples/images are aligned.
-
-Identify condition-specific TCNs from a cohort of labeled tissue samples by leveraging differentiable graph pooling and sample labels (supervised mode), an effective strategy to address the difficulty of graph alignment across samples.
+A supervised approach may be exhibited considering different conditions (for instance, disease risk or patient prognosis) and requires additional information about the samples.
