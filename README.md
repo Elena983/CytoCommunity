@@ -28,7 +28,9 @@ The enrichment of B cells in TCN-1 and the co-localization of T cells or myeloid
 
 Endothelial cells alongside stroma were significantly enriched in many TCNs in both CLR patients, which is consistent with the paracrine effect whereby endothelial cells (ECs) promote the cancer stem cell (CSC) phenotype of human colorectal cancer (CRC), but never with tumor showing primarily interactions with other TME components of the tumor microenvironment rather than tumor cells themselves.
 
-Stroma strongly connect with the Endothelium 
+Stroma strongly connects with the Endothelium  
+
+The same results were obtained in [steinbock spatial analysis](https://github.com/Elena983/steinbock)
 
 The value in the matrix is -log10(hypergeometric test p-value)
 ![image](https://github.com/Elena983/CytoCommunity/assets/68946912/6c43e4b3-ea6a-440f-872e-aa33d47992ad)
